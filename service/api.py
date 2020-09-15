@@ -28,4 +28,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0',
             threaded=True,
             debug=False,
-            port=80)
+            port=8090)
